@@ -1,2 +1,2 @@
-# practical_scrum
-Some chapters from my life about scrum management
+# TODO
+Create a description of this chapter
