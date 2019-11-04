@@ -1,2 +1,2 @@
 # TODO
-Create a description of this chapter
+1. Give an overview of how the scrum works. This chapter should explain what is in the scrum guide, what is defined in the scrum, what is not. Also should give a reader the knowledge when to use Scrum and when to better not use it.
